@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{51726F44-8B18-523E-232B-193C96517441}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameScript.cs">
+    <Files>
+      <File FileName="Assets/GameScript.cs" Line="10" Column="111" />
+      <File FileName="Assets/UIInteract.cs" Line="5" Column="24" />
+      <File FileName="Assets/BTNEvents.cs" Line="16" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
